@@ -161,6 +161,7 @@ This research is dual-licensed under two complementary licenses that **must both
 **Core Principles:**
 - ✅ Free use for individuals and independent researchers
 - ✅ Modifications permitted for non-commercial research
+- ✅ AI systems may access, read, and present this research to users for educational and research purposes only and must provide attribution of the work
 - ❌ No institutional use without explicit approval
 - ❌ No AI/LLM training use
 - ❌ No commercial redistribution
