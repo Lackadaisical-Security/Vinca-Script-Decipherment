@@ -47,6 +47,7 @@ The Vinča script, the oldest proto-writing system in Europe (predating Sumerian
 | [Phase 9](VINCA_DECIPHERMENT_RESEARCH_LOG-9.md) | ✅ **COMPLETE** | Grammatical Patterns |
 | [Phase 10](VINCA_DECIPHERMENT_RESEARCH_PHASE10.md) | ✅ **COMPLETE** | First Synthesis |
 | [Phases 11-21](VINCA_DECIPHERMENT_RESEARCH_LOG-21.md) | ✅ **COMPLETE** | Extended Analysis & Final Integration |
+| [Second Pass](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment/blob/main/Computational%20Epigraphy%20and%20Second-Pass%20Decipherment%20of%20the%20Vin%C4%8Da%20Script%20Pre-Indo-European%20Substrate%20Reconstruction%20and%20Multi-Corpus%20Pattern%20Emergence.pdf) | ✅ **COMPLETE** | Full Second Pass with proper reconstructed phonetics |
 
 ### Methodology Documentation
 - [`VINCA_SCRIPT_RESEARCH_METHODOLOGY.md`](VINCA_SCRIPT_RESEARCH_METHODOLOGY.md) - Complete methodology documentation
@@ -55,6 +56,7 @@ The Vinča script, the oldest proto-writing system in Europe (predating Sumerian
 | File | Description |
 |------|-------------|
 | [VINCA_LEXICON_MASTER_2025-10-27.json](VINCA_LEXICON_MASTER_2025-10-27.json) | Complete decoded lexicon |
+| [Vina_lexicon_MASTER_2026-10-18.json](https://github.com/Lackadaisical-Security/Vinca-Script-Decipherment/blob/main/Vinca_lexicon_MASTER_2026-10-18_v2_UDM20.json) | Updated Complete lexicon |
 
 ---
 
